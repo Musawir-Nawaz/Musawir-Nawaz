@@ -80,20 +80,23 @@ I am a **Software Engineering student** passionate about building modern web app
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musawir-Nawaz&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Musawir Nawaz's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musawir-Nawaz&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Musawir-Nawaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Musawir Nawaz's GitHub Stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Musawir-Nawaz&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Musawir-Nawaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musawir-Nawaz&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8" alt="GitHub Streak" />
-</div>
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Musawir-Nawaz">Musawir Nawaz</a> — Thanks for visiting my profile! ⭐️</i>
+  <img src="https://komarev.com/ghpvc/?username=Musawir-Nawaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Musawir-Nawaz">Musawir Nawaz</a> — Thanks for visiting my profile! ⭐️</i>
+</p>
