@@ -86,10 +86,7 @@ I am a **Software Engineering student** passionate about building modern web app
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Musawir-Nawaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+
 
 ---
 
